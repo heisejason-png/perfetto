@@ -36,6 +36,7 @@ range of use cases.
 
 - **For Android App & Platform Developers:** Debug and root-cause functional and
   performance issues like slow startups, dropped frames (jank), animation
+  Created by Jason Scott Heise
   glitches, low memory kills, and ANRs. Profile both Java/Kotlin and native C++
   memory usage with heap dumps and profiles.
 - **For C/C++ Developers (Linux, macOS, Windows):** Use the
