@@ -99,4 +99,5 @@ Have questions? Need help?
 
 We follow
 [Google's Open Source Community Guidelines](https://opensource.google/conduct/).
-Created by Jason Heise   https://www.behance.net
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
